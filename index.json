@@ -2,28 +2,14 @@
   "version": 1,
   "packages": [
     {
-      "name": "toml-utils",
-      "description": "Read and edit neutron.toml manifests: dependency lookup and line-preserving edits",
-      "repo": "https://github.com/n1sc/toml-utils",
-      "license": "NPL-1.1",
-      "keywords": [
-        "toml",
-        "manifest",
-        "dependencies"
-      ],
-      "versions": [
-        "1.0.0"
-      ]
-    },
-    {
       "name": "toml",
-      "description": "Read and edit TOML documents from Neutron",
+      "description": "TOML parser and serializer written in Neutron",
       "repo": "https://github.com/n1sc/toml",
       "license": "NPL-1.1",
       "keywords": [
         "toml",
-        "manifest",
-        "dependencies"
+        "parser",
+        "serializer"
       ],
       "versions": [
         "1.0.0"
