@@ -1,0 +1,6 @@
+[package]
+name = "term"
+description = "Interactive terminal support for Neutron"
+repo = "https://github.com/n1sc/term"
+license = "NPL-1.1"
+keywords = ["terminal", "tty", "input"]

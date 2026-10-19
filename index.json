@@ -2,12 +2,40 @@
   "version": 1,
   "packages": [
     {
+      "name": "term",
+      "description": "Interactive terminal support for Neutron",
+      "repo": "https://github.com/n1sc/term",
+      "license": "NPL-1.1",
+      "keywords": [
+        "terminal",
+        "tty",
+        "input"
+      ],
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
       "name": "toml",
       "description": "TOML parser and serializer written in Neutron",
       "repo": "https://github.com/n1sc/toml",
       "license": "NPL-1.1",
       "keywords": [
         "toml",
+        "parser",
+        "serializer"
+      ],
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
+      "name": "yaml",
+      "description": "YAML parser and serializer written in Neutron",
+      "repo": "https://github.com/n1sc/yaml",
+      "license": "NPL-1.1",
+      "keywords": [
+        "yaml",
         "parser",
         "serializer"
       ],

@@ -1,0 +1,6 @@
+[package]
+name = "yaml"
+description = "YAML parser and serializer written in Neutron"
+repo = "https://github.com/n1sc/yaml"
+license = "NPL-1.1"
+keywords = ["yaml", "parser", "serializer"]
