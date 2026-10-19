@@ -1,0 +1,6 @@
+[package]
+name = "toml-utils"
+description = "Read and edit neutron.toml manifests: dependency lookup and line-preserving edits"
+repo = "https://github.com/n1sc/toml-utils"
+license = "NPL-1.1"
+keywords = ["toml", "manifest", "dependencies"]
