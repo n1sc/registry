@@ -61,7 +61,7 @@ The compiler vendors a package into `.ntsc/<name>/` inside the consumer
 project, so imports are written with the package name:
 
 ```ntsc
-use "json" as json
+use json
 ```
 
 ## How the index is built
