@@ -61,6 +61,21 @@
       ]
     },
     {
+      "name": "websocket",
+      "description": "WebSocket protocol support for Neutron",
+      "repo": "https://github.com/n1sc/websocket",
+      "license": "NPL-1.1",
+      "keywords": [
+        "websocket",
+        "network",
+        "protocol",
+        "rfc6455"
+      ],
+      "versions": [
+        "0.1.0"
+      ]
+    },
+    {
       "name": "yaml",
       "description": "YAML parser and serializer written in Neutron",
       "repo": "https://github.com/n1sc/yaml",
