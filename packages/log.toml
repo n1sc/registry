@@ -1,0 +1,6 @@
+[package]
+name = "log"
+description = "Levelled logging to standard error"
+repo = "https://github.com/n1sc/log"
+license = "NPL-1.1"
+keywords = ["log", "logging", "stderr"]

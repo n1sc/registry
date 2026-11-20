@@ -1,0 +1,6 @@
+[package]
+name = "uuid"
+description = "UUID generation and inspection: random v4 and time-ordered v7"
+repo = "https://github.com/n1sc/uuid"
+license = "NPL-1.1"
+keywords = ["uuid", "identifier", "random"]
