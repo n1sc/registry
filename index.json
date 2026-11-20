@@ -2,6 +2,20 @@
   "version": 1,
   "packages": [
     {
+      "name": "log",
+      "description": "Levelled logging to standard error",
+      "repo": "https://github.com/n1sc/log",
+      "license": "NPL-1.1",
+      "keywords": [
+        "log",
+        "logging",
+        "stderr"
+      ],
+      "versions": [
+        "1.0.0"
+      ]
+    },
+    {
       "name": "term",
       "description": "Interactive terminal support for Neutron",
       "repo": "https://github.com/n1sc/term",
@@ -30,6 +44,20 @@
       "versions": [
         "1.0.0",
         "1.0.1"
+      ]
+    },
+    {
+      "name": "uuid",
+      "description": "UUID generation and inspection: random v4 and time-ordered v7",
+      "repo": "https://github.com/n1sc/uuid",
+      "license": "NPL-1.1",
+      "keywords": [
+        "uuid",
+        "identifier",
+        "random"
+      ],
+      "versions": [
+        "1.0.0"
       ]
     },
     {
